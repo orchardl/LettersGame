@@ -41,16 +41,16 @@ key_mapping = {
     pygame.K_z: ('Z z', 'Z'),
     # pygame.K_1: ('1', '1'),
     # Add more mappings as needed
-    pygame.K_1: (' ', 'nada'),
-    pygame.K_2: (' ', 'nada'),
-    pygame.K_3: (' ', 'nada'),
-    pygame.K_4: (' ', 'nada'),
-    pygame.K_5: (' ', 'nada'),
-    pygame.K_6: (' ', 'nada'),
-    pygame.K_7: (' ', 'nada'),
-    pygame.K_8: (' ', 'nada'),
-    pygame.K_9: (' ', 'nada'),
-    pygame.K_0: (' ', 'nada'),
+    # pygame.K_1: (' ', 'nada'),
+    # pygame.K_2: (' ', 'nada'),
+    # pygame.K_3: (' ', 'nada'),
+    # pygame.K_4: (' ', 'nada'),
+    # pygame.K_5: (' ', 'nada'),
+    # pygame.K_6: (' ', 'nada'),
+    # pygame.K_7: (' ', 'nada'),
+    # pygame.K_8: (' ', 'nada'),
+    # pygame.K_9: (' ', 'nada'),
+    # pygame.K_0: (' ', 'nada'),
 }
 
 # Set up sound
